@@ -160,21 +160,22 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                    <figure class="cc-effect"><img src="images/vallamkali.jpg"/>
+                    <figure class="cc-effect"><img src="images/vallamkali.jpeg"/>
                       <figcaption>
                         <div class="h4">Recent Project</div>
-                        <p>Android Application</p>
-						   <p>Kerala Festivals</p>
+                        <p>Mobile Application</p>
+						 <p  class="h4">Kerala Festivals </p>
                         <div class="container">
                           <button class="btn btn-simple" href="#">Learn More</button>
                         </div>
                       </figcaption>
                     </figure></a></div>
                 <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                    <figure class="cc-effect"><img src="images/project-2.jpg"/>
+                    <figure class="cc-effect"><img src="images/cuisine.jpg"/>
                       <figcaption>
-                        <div class="h4">Startup Project</div>
-                        <p>Web Development</p>
+                        <div class="h4">Kerala Culture</div>
+                        <p>Mobile Application</p>
+						 <p  class="h4">Ruchi(Kerala Cuisines)</p>
                         <div class="container">
                           <button class="btn btn-simple" href="#">Learn More</button>
                         </div>
@@ -183,10 +184,11 @@
               </div>
               <div class="col-md-6">
                 <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                    <figure class="cc-effect"><img src="images/project-3.jpg"/>
+                    <figure class="cc-effect"><img src="images/mmpic.jpg"/>
                       <figcaption>
-                        <div class="h4">Food Order Project</div>
-                        <p>Web Development</p>
+                        <div class="h4">Individual Project</div>
+                        <p>Mobile Application</p>
+						 <p  class="h4">Nostalgia</p>
                         <div class="container">
                           <button class="btn btn-simple" href="#">Learn More</button>
                         </div>
@@ -198,7 +200,7 @@
                         <div class="h4">Web Advertising Project</div>
                         <p>Web Development</p>
                         <div class="container">
-                          <button class="btn btn-simple" href="#">Learn More</button>
+                          <button class="btn btn-simple" href="https://play.google.com/store/apps/details?id=aliencoder.com.nostalgia&hl=en">Learn More</button>
                         </div>
                       </figcaption>
                     </figure></a></div>
@@ -486,7 +488,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="card-body">
-                    <form action="https://formspree.io/your@email.com" method="POST">
+                    <form action="https://formspree.io/nikhilbiju67@gmail.com" method="POST">
                       <div class="p pb-3"><strong>Feel free to contact me </strong></div>
                       <div class="row mb-3">
                         <div class="col">
@@ -527,11 +529,11 @@
                 <div class="col-md-6">
                   <div class="card-body">
                     <p class="mb-0"><strong>Address </strong></p>
-                    <p class="pb-2">140, City Center, New York, U.S.A</p>
+                    <p class="pb-2">Mangattu plavila veedu,kumbalanghi,kochi</p>
                     <p class="mb-0"><strong>Phone</strong></p>
-                    <p class="pb-2">+1718-111-0011</p>
+                    <p class="pb-2">+919497758113</p>
                     <p class="mb-0"><strong>Email</strong></p>
-                    <p>anthony@company.com</p>
+                    <p>nikhilbiju67@gmail.com</p>
                   </div>
                 </div>
               </div>
